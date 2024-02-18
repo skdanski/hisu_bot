@@ -9,5 +9,6 @@ Multi-purpose Discord Bot for our personal Discord Server
 # Requirements
 1. MongoDB Database
 2. OpenAI API Key
-3. Server Hosting (i.e. EC2)
+3. Unofficial Valorant API Key (https://github.com/Henrik-3/unofficial-valorant-api)
+4. Server Hosting (i.e. EC2)
    
