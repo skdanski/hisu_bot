@@ -7,8 +7,8 @@ Multi-purpose Discord Bot for our personal Discord Server
 3. KDA / HS Ratio Information
    
 # Requirements
-1. MongoDB Database
-2. OpenAI API Key
-3. Unofficial Valorant API Key (https://github.com/Henrik-3/unofficial-valorant-api)
-4. Server Hosting (i.e. EC2)
-   
+1. A Discord Bot
+2. MongoDB Database
+3. OpenAI API Key
+4. Unofficial Valorant API Key (https://github.com/Henrik-3/unofficial-valorant-api)
+5. Server Hosting (i.e. EC2)
